@@ -1,0 +1,33 @@
+.courses {
+    background-color: #f7f7f7;
+    padding: 60px 10%;
+    text-align: center;
+  }
+  
+  .courses h2 {
+    font-size: 36px;
+    color: #003366;
+    margin-bottom: 40px;
+  }
+  
+  .course-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-around;
+  }
+  
+  .course-card {
+    flex: 1 1 250px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .course-card h3 {
+    color: #0072ff;
+    margin-bottom: 10px;
+  }
+  
