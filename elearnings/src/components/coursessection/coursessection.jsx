@@ -1,5 +1,5 @@
 import React from 'react';
-import './Courses.css';
+import './coursessection.css';
 
 const Courses = () => {
   const courses = [

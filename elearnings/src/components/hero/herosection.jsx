@@ -1,5 +1,5 @@
 import React from 'react';
-import './styles/HeroSection.css';
+import './herosection.css';
 
 const HeroSection = () => {
   return (
@@ -19,4 +19,4 @@ const HeroSection = () => {
   );
 };
 
-export default herosection;
+export default HeroSection;
