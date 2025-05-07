@@ -1,9 +1,9 @@
 import React from 'react';
-import HeroSection from '../components/HeroSection';
-import FeaturesSection from '../components/FeaturesSection';
-import CoursesSection from '../components/CoursesSection';
-import TestimonialsSection from '../components/TestimonialsSection';
-import CTASection from '../components/CTASection';
+import HeroSection from '../components/hero/herosection';
+import FeaturesSection from '../components/featuresection/featuresection';
+import CoursesSection from '../components/coursessection/coursessection';
+import TestimonialsSection from '../components/testimonials/testimonials';
+import CTASection from '../components/footer/footer';
 
 const Home = () => {
   return (
